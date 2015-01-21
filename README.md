@@ -1,2 +1,2 @@
-# timezone.php
+# php-timezone
 PHP timezone converter
